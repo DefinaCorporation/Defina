@@ -49,9 +49,11 @@
 
 `email: support@defina.ru`
 
-`тел.: [+7 (999) 849-29-27](tel:+7 (999) 849-29-27)`
+>тел.: [+7 (999) 849-29-27](tel:+7 (999) 849-29-27)
 
-`skype: [definaru](skype:definaru?call)`
+> skype: [definaru](skype:definaru?call)
+
+---
 
 > Обновлено: 29 июля 2018 г 
 
