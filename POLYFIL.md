@@ -47,10 +47,15 @@
 Если у вас возникли вопросы в отношении настоящей Политики конфиденциальности 
 или обработки персональных данных © Inc.Defina, пожалуйста, свяжитесь с нами:
 
-> email: support@defina.ru
-> тел.: +7 (999) 849-29-27
-> skype: definaru
+`email: support@defina.ru`
 
-Обновлено: 29 июля 2018 г
+`тел.: [+7 (999) 849-29-27](tel:+7 (999) 849-29-27)`
+
+`skype: [definaru](skype:definaru?call)`
+
+> Обновлено: 29 июля 2018 г 
+
+
+[![Inc. Defina](https://definaru.github.io/assets/images/button11.png)](https://defina.ru)
 
 
