@@ -1,3 +1,3 @@
-# Inc. Defina
+# Defina LLC
 ---
 Информация о компании
