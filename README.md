@@ -15,4 +15,4 @@
 
 
 
-&copy;Defina LLC:tm:, 2011
+&copy;Defina LLC&trade;, 2011
