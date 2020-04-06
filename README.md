@@ -4,7 +4,9 @@
 
 
 # Defina LLC
-<hr/>
+
+***
+
 Информация о компании
 
 ![https://defina.ru](https://definaru.github.io/assets/images/button11.png)
@@ -13,4 +15,4 @@
 
 
 
-:copyright: Defina LLC:tm:, 2011
+:copyright:_Defina LLC_:tm:, 2011
