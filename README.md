@@ -1,6 +1,4 @@
 [![Defina LLC](https://defina.ru/uploads/2019/06/icon-white-fm.png)](https://defina.ru)
-
-
 # Defina LLC
 
 ***
