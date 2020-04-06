@@ -2,3 +2,5 @@
 # Defina LLC
 ---
 Информация о компании
+
+![https://defina.ru](https://definaru.github.io/assets/images/button11.png)
