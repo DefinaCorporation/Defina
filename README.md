@@ -1,5 +1,5 @@
 <a href="https://defina.ru" target="_blank">
-  <img src="https://defina.ru/uploads/2019/06/icon-white-fm.png" alt="Defina LLC" style="width:50px;"/>
+  <img src="https://defina.ru/uploads/2019/06/icon-white-fm.png" alt="Defina LLC" style="width:30px;"/>
 </a>
 
 
@@ -15,4 +15,4 @@
 
 
 
-:copyright:_Defina LLC_:tm:, 2011
+&copy;Defina LLC:tm:, 2011
