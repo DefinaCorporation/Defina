@@ -13,6 +13,6 @@
 
 :clipboard: [License](https://github.com/DefinaCorporation/Defina-LLC/blob/master/LICENSE)
 
-
+***
 
 &copy;Defina LLC&trade;, 2011
