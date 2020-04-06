@@ -8,7 +8,8 @@
 ![https://defina.ru](https://definaru.github.io/assets/images/button11.png)
 
 :clipboard: [License](https://github.com/DefinaCorporation/Defina-LLC/blob/master/LICENSE)
-[Контакты]: https://defina.ru/contact
+
+[Контакты](https://defina.ru/contact)
 
 ***
 &copy;Defina LLC&trade;, 2011
