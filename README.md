@@ -1,4 +1,4 @@
-![https://defina.ru](https://defina.ru/incdefina/img/logo-dark.png)
+![https://defina.ru](https://avatars0.githubusercontent.com/u/39820615?v=4)
 
 # Defina LLC
 
