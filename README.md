@@ -1,4 +1,4 @@
-<img src="https://avatars0.githubusercontent.com/u/39820615?v=4" alt="Defina" width="20"/>
+<img src="https://avatars0.githubusercontent.com/u/39820615?v=4" alt="Defina" width="40"/>
 
 # Defina LLC
 
