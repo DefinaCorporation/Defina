@@ -1,4 +1,4 @@
-![Defina LLC](https://defina.ru/incdefina/img/logo-dark.png)
+![https://defina.ru](https://defina.ru/incdefina/img/logo-dark.png)
 
 # Defina LLC
 
